@@ -1,0 +1,4 @@
+console.log ("Hello from Mike Laborde!");
+
+const name = prompt("Enter your first name:");
+alert('Hello, ${name}');
